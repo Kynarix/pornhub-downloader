@@ -1,0 +1,59 @@
+# Python
+__pycache__/
+*.py[cod]
+*$py.class
+*.so
+.Python
+*.egg-info/
+.eggs/
+dist/
+build/
+*.egg
+
+# Virtual environments
+.venv/
+venv/
+env/
+ENV/
+
+# Local app data (user settings, history, favorites)
+data/*
+!data/.gitkeep
+
+# Logs & caches
+*.log
+.cache/
+.pytest_cache/
+.mypy_cache/
+.ruff_cache/
+.DS_Store
+Thumbs.db
+desktop.ini
+
+# IDE / editor
+.idea/
+.vscode/
+*.swp
+*.swo
+.superpowers/
+
+# Secrets / env
+.env
+.env.*
+!.env.example
+*.pem
+credentials.json
+
+# Downloads / temp
+downloads/
+tmp/
+temp/
+*.tmp
+*.part
+*.ytdl
+
+# OS / packaging
+*.exe
+*.msi
+*.zip
+*.7z

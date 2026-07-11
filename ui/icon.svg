@@ -1,0 +1,11 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512" role="img" aria-label="Hub Downloader">
+  <rect width="512" height="512" rx="112" fill="#121212"/>
+  <g fill="#E31C1C">
+    <!-- play triangle -->
+    <path d="M150 130v252l210-126z"/>
+    <!-- download shaft + arrow from play tip -->
+    <path d="M292 256v78h-36l64 72 64-72h-36v-78z"/>
+    <!-- tray -->
+    <rect x="236" y="422" width="140" height="26" rx="8"/>
+  </g>
+</svg>
